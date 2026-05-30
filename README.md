@@ -15,7 +15,6 @@
 - PDB-XT60 Power Distribution Board W/BEC 5V&12V <a href="https://amzn.in/d/0cnZaXWY">Checkout</a>
 - Gemfan VANNYSTYLE 5136-3 PC DURABLE - TRANSLUCENT RED - (2CCW+2CW) <a href="https://rcmumbai.com/products/gemfan-vannystyle-5136-3-pc-durable-translucent-red-2ccw-2cw?variant=50744018010393">Checkout</a>
 - Cloth Tape <a href="https://amzn.in/d/031Mb635">Checkout</a>
-- Wires
 - Soldering iron <a href="https://amzn.in/d/0iXrwRDn">Checkout</a>
 - Screwdriver Kit <a href="https://amzn.in/d/0bwYRWZq">Checkout</a>
 
