@@ -19,5 +19,5 @@
 - Soldering
 - Screwdriver Kit
 
-## Full build video:-
+## Full build and flight video:-
 https://youtu.be/UZK0c8iGG5w?si=9IqWsn8-xTgmyIDz
