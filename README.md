@@ -7,7 +7,9 @@
 </a>
 
 ## Components used:
+<a href="https://robu.in/product/botwing-f405-flight-controller-fully-solderless/">
 - BotWing F405 Flight Controller
+</a>
 - Emax ECOII-2306-2400KV Brushless Motor
 - Cyclone 35A 2-5S Blheli_S DSHOT600 OPTO Brushless ESC
 - MARK5 5inch 225mm FPV Carbon Fiber Frame blue
